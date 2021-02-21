@@ -106,7 +106,6 @@ b) Correct implementation of the design.
 5) Total Duration for the assignment is 2 hours and 30 mins. Try to give 30mins for
 functional integration test cases.
 ```
-### 6) Please submit your solution to ​ supriya.s@dunzo.in ​ ​marking​ ​ arshiya@dunzo.in ​ in CC.
 
 ## Good Luck!
 
