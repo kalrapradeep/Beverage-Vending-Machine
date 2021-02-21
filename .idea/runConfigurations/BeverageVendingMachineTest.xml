@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BeverageVendingMachineTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="Beverage-Vending-Machine" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="services.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="services" />
+    <option name="MAIN_CLASS_NAME" value="services.BeverageVendingMachineTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
