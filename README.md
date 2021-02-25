@@ -58,7 +58,6 @@ Here is the composition for each drink:
 Note: Since there are ​ **N** ​ outlets, ​ **N** ​ people can take beverages at the same time.
 
 
-#### Input Test Json ​ :- ​https://www.npoint.io/docs/e8cd5a9bbd1331de326a
 
 **Expected Output** ​ :- This input can have multiple outputs.
 **Output 1**
